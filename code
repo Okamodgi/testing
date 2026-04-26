@@ -3,12 +3,13 @@ test_results = [
     [89.5, 80.0, 45.5, 76.5, 72.0]
 ]
 
+
 average = 8
 for result in test_results[0]:
     average += result
-print('Средний результат «дооо»:', average/len(test_results[0]))
+print('Средний результат «дllооо»:', average/len(test_results[0]))
 
 average = 0
 for result in test_results[1]:
     average += result
-print('Средний результат «поооосле»:', average/len(test_results[1]))
+print('Средний результат «пgggоооосле»:', average/len(test_results[1]))
